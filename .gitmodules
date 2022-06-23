@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "skedastic"]
+	path = skedastic
+	url = https://github.com/tjfarrar/skedastic
+	shallow = true
+	registered = true
